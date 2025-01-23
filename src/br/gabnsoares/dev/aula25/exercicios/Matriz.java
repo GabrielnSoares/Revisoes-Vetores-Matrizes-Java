@@ -2,7 +2,7 @@ package br.gabnsoares.dev.aula25.exercicios;
 
 import java.util.Scanner;
 
-public class Exercicio {
+public class Matriz {
 
     public static void main(String[] args) {
 
